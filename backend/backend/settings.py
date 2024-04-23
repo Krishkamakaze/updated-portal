@@ -125,3 +125,5 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 TIME_ZONE = 'Asia/Kolkata'
+
+MEDIA_ROOT = BASE_DIR / 'media'
